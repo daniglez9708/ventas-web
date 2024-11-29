@@ -250,7 +250,7 @@ const Dashboard = () => {
               <Typography variant="h6">Información Adicional</Typography>
               <Typography color="text.secondary">
                 Aquí puedes agregar cualquier otra información relevante para tu
-                panel de control.
+                panel de control
               </Typography>
             </CardContent>
           </Card>
