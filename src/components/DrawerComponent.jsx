@@ -26,7 +26,7 @@ export default function Sidebar() {
       path: "/",
     },
     {
-      text: "Productos",
+      text: "Productoos",
       icon: (
         <ShoppingBagOutlinedIcon sx={{ color: theme.palette.primary.main }} />
       ),
